@@ -16,13 +16,17 @@ print("Hello, World!")
 
 ## lists
  ordered
-1. item 1
-2. item 2
+
+1. item 
+2. item
+
  unordered
+
 - item 1
 - item 2
 
 **This is bold text**
+
 _This is italic text_
 
 
