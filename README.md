@@ -15,12 +15,12 @@ print("Hello, World!")
 > "this is a quote line" - author
 
 ## lists
- ordered
+ordered
 
 1. item 
 2. item
 
- unordered
+unordered
 
 - item 1
 - item 2
